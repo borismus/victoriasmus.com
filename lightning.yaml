@@ -1,0 +1,5 @@
+template: template
+content: content
+output: www
+
+deploy: victoriasmus.com
