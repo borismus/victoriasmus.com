@@ -1,4 +1,4 @@
-template: template
+template: theme
 content: content
 output: www
 output_deploy: www_deploy

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section id='main'>
+  <article>
+    <a href='{{ computed_link }}'><h1 class='title'>{{ title }}</h1></a>
+    <div class='body'>
+      {{content}}
+    </div>
+    <div class='subfooter'>
+      <div class='tombstone'>▪</div>
+      <time class='published'>{{ posted_info.formatted }}</time>
+    </div>
+  </article>
+</section>
+{% endblock %}
