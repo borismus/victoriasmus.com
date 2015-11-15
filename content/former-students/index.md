@@ -43,7 +43,8 @@ of Toronto), ALCM (Associate of the London College of Music) and LLCM
 - Maggie Chan, RCM
 - Catherine Chan, RCM
 - Isaac Elias, LCM
-- Alexander Fonarev [videos][alexander]
+- Alexander Fonarev, RCM [videos][alexander]
+- Karina Gonchar, RCM [videos][karina]
 - Liora Gonchar, RCM
 - Alexis Mauricio, RCM
 - Boris Smus, RCM
@@ -56,6 +57,7 @@ of Toronto), ALCM (Associate of the London College of Music) and LLCM
 - Theresa Yip, RCM
 
 [alexander]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Alexander%20Fonarev%22
+[karina]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Karina%20Gonchar%22
 [kristy]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Kristy%20Yang%22
 
 ## Other Students
@@ -70,6 +72,7 @@ of Toronto), ALCM (Associate of the London College of Music) and LLCM
 - Alicia Nicola Carpenter
 - Maria Amparo de Castro
 - Franceska Cavaletti
+- Sebastien Croteau [videos][sebastien]
 - Joyce Cheng
 - Christy-Anna Chung
 - Brad Cousineau (adult student)
@@ -109,3 +112,4 @@ of Toronto), ALCM (Associate of the London College of Music) and LLCM
 [nika]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Nika%20Pereyaslavsky%22
 [annie]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Annie%20Yang%22
 [simon]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Simon%20Krakovsky%22
+[sebastien]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Sebastien%20Croteau%22

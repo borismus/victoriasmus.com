@@ -9,26 +9,24 @@ type: page
 - Eleanor Bridson [videos][eleanor]
 - Elliot Bridson [videos][elliot]
 - Mayya Chaykina [videos][mayya]
-- Sebastien Croteau [videos][sebastien]
 - Renan Dobrer [videos][renan]
 - Tal-Claire Dobrer [videos][tal]
-- Karina Gonchar [videos][karina]
+- David Fu
 - Matthew Lai [videos][matthew]
 - Raina Liao [videos][raina]
 - Justine Lin [videos][justine]
 - Grace Lokshin [videos][grace]
 - Julia Polissky
 - Ben Smus [videos][ben]
+- Emma Tang
 - Meg Wang [videos][meg]
 
 [arthur]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Arthur%20Bridson%22
 [mila]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Mila%20Bobyreva%22
 [eleanor]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Eleanor%20Bridson%22
 [elliot]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Elliot%20Bridson%22
-[sebastien]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Sebastien%20Croteau%22
 [renan]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Renan%20Dobrer%22
 [tal]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Tal-Claire%20Dobrer%22
-[karina]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Karina%20Gonchar%22
 [matthew]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Matthew%20Lai%22
 [raina]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Raina%20Liao%22
 [justine]: https://www.youtube.com/results?search_sort=video_date_uploaded&filters=%40victoriasmusstudents&search_query=%22Justine%20Lin%22
